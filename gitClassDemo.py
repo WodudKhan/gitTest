@@ -15,3 +15,5 @@ for num in range(lower, upper + 1):
             print(num)
 
     print("This is a git test")
+    print("This is a git test2")
+    print("This is a git test3")
