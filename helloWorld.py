@@ -9,3 +9,10 @@ print("Hello, World2")
 
 print("Hello, Wodud!")
 
+print("Hello, World3")
+
+print("Hello, Khan2!")
+
+print("Hello, World2")
+
+print("Hello, Wodud4!")
